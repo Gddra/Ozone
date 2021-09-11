@@ -133,8 +133,7 @@ void loop() {
       lcd.setCursor(0, 0); 
       lcd.print("Ozone Sterilizer"); //พิมพ์ข้อความ 
       lcd.setCursor(0, 1); 
-      lcd.print("   is working   "); //พิมพ์ข้อความ 
-   
+      lcd.print("   is working   "); //พิมพ์ข
     }
    }
 
